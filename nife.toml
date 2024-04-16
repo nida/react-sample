@@ -1,11 +1,11 @@
-app = "unreal-app-8463"
+app = "dev-stunning-app-8293"
 github = ""
-id = "bb1ed49e5b520a6bda2accc271975ad8170f8b28b2de239c84063a8fc8e78c5f7f813e040fd86ea527cbf432e3b559fe"
+id = "e80eae3d77a20de48da005afee3078fd54963d7916315af5ed10f6fb5aa5a314f4a9c3c45961d17b32548b0316783515"
 kill_signal = "SIGINT"
 kill_timeout = 5
 
 [build]
-  image = "nife123/unreal-app-8463:deployment-hd7b69"
+  image = "nginx:latest"
 
 [env]
 
@@ -16,7 +16,7 @@ kill_timeout = 5
 [[services]]
   external_port = "80"
   http_checks = []
-  internal_port = "3000"
+  internal_port = "80"
   protocol = "tcp"
   routing_policy = "Latency"
   script_checks = []
