@@ -1,11 +1,11 @@
-app = "dev-stunning-app-8293"
-github = ""
-id = "e80eae3d77a20de48da005afee3078fd54963d7916315af5ed10f6fb5aa5a314f4a9c3c45961d17b32548b0316783515"
+app = "marvelous-app-5184"
+github = "https://github.com/RevathiManiraj/react-sample-forked/"
+id = "361d121a0ec535e719e79e4d2a37bbe131fc7e07b5dffd03767766df76900c78b5dff4607af0870d5c15d64604ee05af"
 kill_signal = "SIGINT"
 kill_timeout = 5
 
 [build]
-  image = "nginx:latest"
+  image = ""
 
 [env]
 
@@ -16,7 +16,7 @@ kill_timeout = 5
 [[services]]
   external_port = "80"
   http_checks = []
-  internal_port = "80"
+  internal_port = "4000"
   protocol = "tcp"
   routing_policy = "Latency"
   script_checks = []
