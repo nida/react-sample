@@ -1,6 +1,6 @@
-app = "marvelous-app-5184"
+app = "dv-awesome-app-9438"
 github = "https://github.com/RevathiManiraj/react-sample-forked/"
-id = "361d121a0ec535e719e79e4d2a37bbe131fc7e07b5dffd03767766df76900c78b5dff4607af0870d5c15d64604ee05af"
+id = "5614adab6f99ba2aa157db848ddb80d6b45177496002474771a355ddc397b7db6bfc1d0db36ddd62884bce80ef344e92"
 kill_signal = "SIGINT"
 kill_timeout = 5
 
@@ -16,7 +16,7 @@ kill_timeout = 5
 [[services]]
   external_port = "80"
   http_checks = []
-  internal_port = "4000"
+  internal_port = "3000"
   protocol = "tcp"
   routing_policy = "Latency"
   script_checks = []
