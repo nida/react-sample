@@ -1,5 +1,5 @@
 app = "excellent-app-9507"
-github = "https://github.com/nida/react-sample"
+github = "https://github.com/nida/react-sample/"
 id = "59670d8729881e9b11350858ac2fb835024d77432da97fae736fd36deb8a11cb7418abf0ef699ba2460a3c9d33113240"
 kill_signal = "SIGINT"
 kill_timeout = 5
