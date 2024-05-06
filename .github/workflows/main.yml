@@ -6,7 +6,7 @@
       name: Deploy proxy
       runs-on: ubuntu-latest
       steps:
-        # This step checks out a copy of your repository.
+        # This step checks out a copy of your repository
         - uses: actions/checkout@v2
         # This step runs nifectl deploy.
         - uses: nifetency/nife-actions@2.4
