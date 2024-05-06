@@ -1,6 +1,6 @@
-app = "beautiful-app-4633"
-github = "https://github.com/RevathiManiraj/react-sample-forked/"
-id = "e7471825f81be00067061cd72584be8e1257d5cd3440fb1731730d489e8ea6206aa4add77309acc8d314647184148536"
+app = "pioneering-app-7184"
+github = "https://github.com/nida/react-sample/"
+id = "38ff3607d6c6bb539a8fd24ee77fd85abe0a3f743d8ca629b635f921cd2c65e16c671901e685cbed1f4184af642653d1"
 kill_signal = "SIGINT"
 kill_timeout = 5
 
