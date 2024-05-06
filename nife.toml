@@ -1,6 +1,6 @@
-app = "pioneering-app-7184"
+app = "excellent-app-9507"
 github = "https://github.com/nida/react-sample/"
-id = "38ff3607d6c6bb539a8fd24ee77fd85abe0a3f743d8ca629b635f921cd2c65e16c671901e685cbed1f4184af642653d1"
+id = "59670d8729881e9b11350858ac2fb835024d77432da97fae736fd36deb8a11cb7418abf0ef699ba2460a3c9d33113240"
 kill_signal = "SIGINT"
 kill_timeout = 5
 
